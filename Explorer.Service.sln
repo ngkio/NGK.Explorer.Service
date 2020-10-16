@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorer.Service.WebApi", "Explorer.Service.WebApi\Explorer.Service.WebApi.csproj", "{21803400-E636-43B5-8281-7CB32764980A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorer.Service.DataAccess.Entities", "Explorer.Service.DataAccess.Entities\Explorer.Service.DataAccess.Entities.csproj", "{77E80B07-80EA-4939-811C-5D88E1308A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorer.Service.Common", "Explorer.Service.Common\Explorer.Service.Common.csproj", "{C188934E-FAF5-44F8-BB3C-4DEA632F07EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorer.Service.DataAccess.Interface", "Explorer.Service.DataAccess.Interface\Explorer.Service.DataAccess.Interface.csproj", "{BBA223C3-C15A-428D-BF38-B1D8946B9EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorer.Service.DataAccess.Implement", "Explorer.Service.DataAccess.Implement\Explorer.Service.DataAccess.Implement.csproj", "{280A2399-3578-4590-8517-1D03FCFD1A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorer.Service.DataAccess.DTO", "Explorer.Service.DataAccess.DTO\Explorer.Service.DataAccess.DTO.csproj", "{826BC5CA-0F47-40CF-854F-FA8EE2893DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Explorer.Service.Contract", "Explorer.Service.Contract\Explorer.Service.Contract.csproj", "{FFD1CC07-D2AA-4411-801B-1684B762219B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21803400-E636-43B5-8281-7CB32764980A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21803400-E636-43B5-8281-7CB32764980A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21803400-E636-43B5-8281-7CB32764980A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21803400-E636-43B5-8281-7CB32764980A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E80B07-80EA-4939-811C-5D88E1308A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E80B07-80EA-4939-811C-5D88E1308A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E80B07-80EA-4939-811C-5D88E1308A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E80B07-80EA-4939-811C-5D88E1308A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C188934E-FAF5-44F8-BB3C-4DEA632F07EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C188934E-FAF5-44F8-BB3C-4DEA632F07EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C188934E-FAF5-44F8-BB3C-4DEA632F07EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C188934E-FAF5-44F8-BB3C-4DEA632F07EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA223C3-C15A-428D-BF38-B1D8946B9EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA223C3-C15A-428D-BF38-B1D8946B9EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA223C3-C15A-428D-BF38-B1D8946B9EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA223C3-C15A-428D-BF38-B1D8946B9EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280A2399-3578-4590-8517-1D03FCFD1A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280A2399-3578-4590-8517-1D03FCFD1A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280A2399-3578-4590-8517-1D03FCFD1A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280A2399-3578-4590-8517-1D03FCFD1A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826BC5CA-0F47-40CF-854F-FA8EE2893DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826BC5CA-0F47-40CF-854F-FA8EE2893DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826BC5CA-0F47-40CF-854F-FA8EE2893DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826BC5CA-0F47-40CF-854F-FA8EE2893DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD1CC07-D2AA-4411-801B-1684B762219B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD1CC07-D2AA-4411-801B-1684B762219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD1CC07-D2AA-4411-801B-1684B762219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD1CC07-D2AA-4411-801B-1684B762219B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

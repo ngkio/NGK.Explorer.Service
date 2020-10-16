@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Explorer.Service.DataAccess.DTO\Explorer.Service.DataAccess.DTO.csproj" />
+      <ProjectReference Include="..\Explorer.Service.DataAccess.Entities\Explorer.Service.DataAccess.Entities.csproj" />
+    </ItemGroup>
+
+</Project>

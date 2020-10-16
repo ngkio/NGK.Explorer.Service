@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  explorerwebapi:
+    build:
+      context: ../
+      dockerfile: Explorer.Service.WebApi/Dockerfile
+    restart: always
